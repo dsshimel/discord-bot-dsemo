@@ -6,3 +6,5 @@ function sendMessage() {
 function readMessage() {
     // Read the messages in the attendance channel.
 }
+
+console.log('hello world')
